@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://builtin.com/sites/default/files/styles/medium/public/2018-08/artificial-intelligence-companies.jpg">
 <!--
 **gochaitj30/gochaitj30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
